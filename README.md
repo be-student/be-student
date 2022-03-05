@@ -21,7 +21,7 @@
 
 
 <div>
-<img src="https://img.shields.io/badge/Node.js-339933?&logo=Node.js&logoColor=white"/></a>
+<i class="fab fa-js"></i>
 <img src="https://img.shields.io/badge/Express-ffffff?&logo=express&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Nest-E0234E?&logo=nestjs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OWASP API Security -white?&logo=OWASP&logoColor=black"/></a>

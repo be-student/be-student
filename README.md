@@ -1,6 +1,5 @@
-<h3>About Me🌴</h3>
+<h3>About Me</h3>
 <p align="center">
-<img src="./test.gif"/>
 </p>
 
     

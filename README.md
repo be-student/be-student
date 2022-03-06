@@ -23,4 +23,16 @@
     <img src="https://img.shields.io/badge/mobx-FF9955svg?&style=for-the-badge&logo=MobX&logoColor=white">
     <img src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=React%20Router&logoColor=white">
 </div>
-   
+    <h4>I can do little on React</h4>
+    <div>
+        <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+        <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+    </div>
+<h4>I can do on Express</h4>
+<div>
+    
+</div>
+<h4>I can do on testing</h4>   
+<div>
+    <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=Jest&logoColor=white">
+</div>

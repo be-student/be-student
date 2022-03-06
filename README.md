@@ -39,3 +39,12 @@
 <div>
     <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=Jest&logoColor=white">
 </div>
+    <h4>I can do on dev ops</h4>
+    <div>
+        <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Github&logoColor=white">
+    </div>
+    <h4>I'm learning now</h4>
+    <div>
+        <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    </div>

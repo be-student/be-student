@@ -11,10 +11,8 @@
  
  <h2>Here is my Tech Stack</h2>
  <h4>Language that I can do best</h4>
-    <img src="https://img.shields.io/badge/node-3776AB.svg?&style=for-the-badge&logo=node.js&logoColor=white">
-    <i src="https://user-images.githubusercontent.com/80899085/156860907-a4780a2e-afbb-4e8d-8c78-b8e0e0da1e8b.svg">
-    <i src="https://user-images.githubusercontent.com/80899085/156860908-8017953e-2cc9-499f-8884-fb2f25f2f00c.svg">
-    <i src="https://user-images.githubusercontent.com/80899085/156860909-9e9feea9-e410-414e-a84e-99a8a3df0db0.svg">
+    <img src="https://img.shields.io/badge/node-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black">
 
 
 <div>

@@ -16,11 +16,10 @@
     <img src="https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black">
 </div>
-    
+<h4>I can do on React</h4>
 <div>
-
-
- <h4>More</h4>
-
+    <img src="https://img.shields.io/badge/react%20query-CA4245.svg?&style=for-the-badge&logo=React%20Query&logoColor=white>
+    <img src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white">
+                                                                                                                      
 </div>
    

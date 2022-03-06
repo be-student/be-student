@@ -13,7 +13,6 @@
     <div>
     <img src="https://img.shields.io/badge/node-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black">
-    <img src="https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black">
 </div>
     <h4>I can do on React</h4>
@@ -30,7 +29,11 @@
     </div>
 <h4>I can do on Express</h4>
 <div>
-    
+    <img src="https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon%20aws-232F3E?style=for-the-badge&logo=Amazon%20Aws&logoColor=white">
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
+    <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=MongoDb&logoColor=white">
 </div>
 <h4>I can do on testing</h4>   
 <div>

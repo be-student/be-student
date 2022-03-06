@@ -18,7 +18,7 @@
 </div>
 <h4>I can do on React</h4>
 <div>
-    <img src="https://img.shields.io/badge/react%20query-CA4245.svg?&style=for-the-badge&logo=React%20Query&logoColor=white>
+    <img src="https://img.shields.io/badge/react%20query-CA4245.svg?&style=for-the-badge&logo=React%20Query&logoColor=white">
     <img src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white">
                                                                                                                       
 </div>

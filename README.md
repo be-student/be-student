@@ -47,6 +47,7 @@
         <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white">
         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Github&logoColor=white">
         <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/travis%20ci-3EAAAF?style=for-the-badge&logo=Travis%20CI&logoColor=white">
     </div>
     <h4>I'm learning now</h4>
     <div>

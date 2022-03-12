@@ -25,7 +25,6 @@
     <h4>I can do little on React</h4>
     <div>
         <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-        <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
     </div>
 <h4>I can do on Express</h4>
 <div>

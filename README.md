@@ -32,7 +32,6 @@
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
     <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=MongoDb&logoColor=white">
-    <img src="https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
 </div>
     <h4>I can do little on Node.JS</h4>
     <div>

@@ -37,13 +37,10 @@
     <img src="https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
     <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=MongoDb&logoColor=white">
 </div>
+<h4>I can do on testing</h4>   
 <div>
-    <h4>I can do on testing</h4>   
-    <div>
-        <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=Jest&logoColor=white">
-    </div>
+   <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=Jest&logoColor=white">
 </div>
-<div>
     <h4>I can do on dev ops</h4>
     <div>
         <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white">
@@ -53,6 +50,7 @@
         <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black">
     </div>
     <h4>I'm learning now</h4>
+    <div>
     domain driven design(Domain driven Hexagon)
     Docker
     Kubernetes,

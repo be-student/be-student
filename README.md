@@ -37,9 +37,11 @@
     <img src="https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
     <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=MongoDb&logoColor=white">
 </div>
-<h4>I can do on testing</h4>   
 <div>
-    <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=Jest&logoColor=white">
+    <h4>I can do on testing</h4>   
+    <div>
+        <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=Jest&logoColor=white">
+    </div>
 </div>
 <div>
     <h4>I can do on dev ops</h4>

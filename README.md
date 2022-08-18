@@ -29,24 +29,29 @@
     </div>
 <div>
 </div>
+<div>
     <h4>I can do Node.JS</h4>
+    <div>
     <img src="https://img.shields.io/badge/Amazon%20aws-232F3E?style=for-the-badge&logo=Amazon%20Aws&logoColor=white">
     <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestJS&logoColor=white">
     <img src="https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
     <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=MongoDb&logoColor=white">
+    </div>
 </div>
+    <div>
 <h4>I can do on testing</h4>   
 <div>
    <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=Jest&logoColor=white">
 </div>
+    </div>
     <h4>I can do on dev ops</h4>
     <div>
         <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white">
         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Github&logoColor=white">
         <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-        <img src="https://img.shields.io/badge/travis%20ci-3EAAAF?style=for-the-badge&logo=Travis%20CI&logoColor=white">
+<img src="https://img.shields.io/badge/github%20actions-222222?style=for-the-badge&logo=GithubActions&logoColor=black%22">
         <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black">
     </div>
     <h4>I'm learning now</h4>

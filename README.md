@@ -27,7 +27,6 @@
     <div>
         <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
     </div>
-<h4>I can do on Express</h4>
 <div>
 </div>
     <h4>I can do Node.JS</h4>
@@ -42,6 +41,7 @@
 <div>
     <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=Jest&logoColor=white">
 </div>
+<div>
     <h4>I can do on dev ops</h4>
     <div>
         <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white">
@@ -56,3 +56,4 @@
     Kubernetes,
     Design pattern,
     Testing
+</div>

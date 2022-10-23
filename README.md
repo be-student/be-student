@@ -2,7 +2,7 @@
 
 # About Me
 ## 블로그
-https://be-student.tistory.com/
+https://be-student.tistory.com/<br/>
 https://velog.io/@presentsong (순수하게 기록만을 목적으로 합니다)
 
 기술 스택<br/>

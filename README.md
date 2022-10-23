@@ -10,4 +10,6 @@ Node.js, Nest.js, Typeorm,
 
 Java
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=be-student&show_icons=true&theme=dark)
+
 ![image](https://user-images.githubusercontent.com/80899085/197405723-060f0cf1-9d98-4345-9aa1-aa4adf0aaaa2.png)

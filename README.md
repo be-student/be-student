@@ -18,8 +18,8 @@
 
 # 스터디 활동
 
-### 리액트스터디(with 인프런 강의) 2021.11~2022.02
-### AWS 스터디(with 아마존 웹 서비스) 2022.04~2022.07
+### React 스터디 2021.11~2022.02
+### AWS 스터디 2022.04~2022.07
 
 # 기술 스택<br/>
 <img src="https://img.shields.io/badge/node-339933?&style=for-the-badge&logo=node.js&logoColor=white">

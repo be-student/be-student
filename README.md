@@ -22,10 +22,8 @@
 ### AWS 스터디(with 아마존 웹 서비스) 2022.04~2022.07
 
 # 기술 스택<br/>
-<img src="https://img.shields.io/badge/node-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white">
-<br/>
+<img src="https://img.shields.io/badge/node-339933?&style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
-<br/>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 
 프레임워크<br/>

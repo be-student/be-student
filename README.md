@@ -22,3 +22,21 @@ https://be-student.tistory.com/<br/>
 ![be-student's GitHub stats](https://github-readme-stats.vercel.app/api?username=be-student&show_icons=true&theme=dark)
 
 ![image](https://user-images.githubusercontent.com/80899085/197405723-060f0cf1-9d98-4345-9aa1-aa4adf0aaaa2.png)
+# 이력
+
+### 프론트엔드 인턴쉽 2022.05~2022.08
+
+# 주요 활동
+
+### 서강대학교 컴퓨터공학과 2020.3~2022.08(현재 휴학중)
+### 우아한테크코스 5기 2022.08~2022
+
+# 동아리 활동
+
+### 프로그라피 2022.02~2022.07
+### 디프만 2022.08~현재까지
+
+# 스터디 활동
+
+### 리액트스터디(with 인프런 강의) 2021.11~2022.02
+### AWS 스터디(with 아마존 웹 서비스) 2022.04~2022.07

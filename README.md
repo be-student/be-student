@@ -31,7 +31,7 @@
 프레임워크<br/>
 <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestJS&logoColor=white">
 <br/>
-<img src="https://img.shields.io/badge/spring boot-#6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-#6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white">
 
 
 ![be-student's GitHub stats](https://github-readme-stats.vercel.app/api?username=be-student&show_icons=true&theme=dark)

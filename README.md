@@ -1,12 +1,6 @@
 # 백엔드 개발자 송은우입니다.
 
 ## About Me
-### 블로그
-메인 블로그<br/>
-
-기록용<br/>
-https://velog.io/@presentsong (순수하게 기록만을 목적으로 합니다)
-https://be-student.tistory.com/<br/>
 
 기술 스택<br/>
 <img src="https://img.shields.io/badge/node-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white">

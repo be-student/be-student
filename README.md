@@ -9,6 +9,7 @@
 ### 수상
 
 ##### sparcs 해커톤 우수상
+https://hackathon.sparcs.org/
 
 ### 주요 활동
 

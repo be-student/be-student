@@ -25,6 +25,7 @@
 
 ##### AWS 스터디 2022.04~2022.07
 ##### React 스터디 2021.11~2022.02
+##### 오브젝트 스터디 2023.03~2023.04
 
 ### 기술 스택<br/>
 <img src="https://img.shields.io/badge/node-339933?&style=for-the-badge&logo=node.js&logoColor=white">

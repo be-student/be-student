@@ -42,4 +42,4 @@
 
 ### 알고리즘
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=presentsong&height=100)](https://solved.ac/kpeel5839)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=presentsong&height=100)](https://solved.ac/presentsong)
